@@ -1,0 +1,48 @@
+body {
+    background-color: #FADBD8;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+ul {
+    text-align: center;
+    text-emphasis-position: above;
+    font-family: Monotype Corsiva;
+    font-size: 20px;
+}
+h2 {
+    color:darkred;
+    font-family:Monotype Corsiva;   
+}
+.p{ 
+    font-family: 微软雅黑;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+.tablink {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    font-size: 30px;
+    width: 100%;
+    font-family: monotype corsiva;
+}
+.tablink1 {
+    background-color: #555;
+    color: white;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 10px 12px;
+    font-size: 30px;
+    width: 100%;
+    font-family: monotype corsiva;
+}
+
